@@ -1,6 +1,8 @@
 # odin-landing-page
 The Odin Project - Landing Page Project
 
+Website: https://rithvikbona.github.io/odin-landing-page/
+
 This project is meant to showcase my flexbox skills in order to create a appealing website that complies with a finished website design. Both HTML and CSS are heavily used in this project. The website is akin to a template and has dummy content, however it is layouted as a real website may be. I broke the page design into 4 sections, each of which I completed separately. 
 
 Website Design Specifications:
